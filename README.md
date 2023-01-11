@@ -1,2 +1,2 @@
-# rascall.co
-rascall.co website
+# rascall.tech
+Thanks for visiting...
